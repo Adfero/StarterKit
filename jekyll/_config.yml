@@ -1,0 +1,20 @@
+title: ""
+description: ""
+ga_id: ""
+og_image: "/img/og.png"
+url: "http://"
+exclude: [s3_website.yml,Gemfile,Gemfile.lock]
+markdown: kramdown
+permalink: pretty
+
+sass:
+  style: compressed
+
+addthis:
+  pubid: ""
+  via: ""
+  bitly_login: ""
+  bitly_key: ""
+
+gems:
+- jekyll-sitemap
